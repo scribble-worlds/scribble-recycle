@@ -1,37 +1,23 @@
 # 002 / Recycle — Kaynak arşivi
 
-Site içindeki arşiv: [references.html](references.html). Bu liste kullanılan verileri, görsel referansları ve tasarım ilhamlarını bir arada tutar.
+Güncel fotoğraf, veri ve tasarım arşivi: [references.html](references.html).
+
+## Fotoğraflar
+
+| Fotoğrafçı | Özgün boyut | Kaynak |
+| --- | --- | --- |
+| Alex Varela | 4000 × 2250 | https://unsplash.com/photos/an-aerial-view-of-the-ocean-waves-from-above-Vm6mxpQHh30 |
+| Marcus Lange | 4800 × 2702 | https://unsplash.com/photos/a-sea-turtle-swims-underwater-near-a-coral-reef-hHMASXsb9KU |
+| Naja Bertolt Jensen | 4032 × 3024 | https://unsplash.com/photos/a-group-of-garbage-floating-in-the-ocean-FxnqdmKBJps |
+
+[Unsplash License](https://unsplash.com/license). Kaynaklardan 960 / 1920 / 3840 piksel seçenekleriyle sunulur. Küçük Pinterest görselleri büyütülmez; önceki pinler yalnızca ilham arşivinde bağlantı olarak korunur.
 
 ## Tasarım
 
-| Referans | Çalışılan yön |
-| --- | --- |
-| [WebInspoo](https://webinspoo.com/?ref=darkmodedesign) | Nesnelerle yükselen açılış grafiği; burada PET şişe ve metal kutularla özgün SVG kompozisyonu |
-| [Lafour](https://lafour.com) | İnce, geniş aralıklı menü ve tam ekran atmosfer |
-| [Lament](https://lament.tv) | Büyük tipografi, görsel bölümler ve kaydırma ritmi |
-| [Jarcos](https://jarcos.work) | Büyük kelime işaretli footer |
-
-## Kullanıcı tarafından paylaşılan görseller
-
-- [Plastikten balıklar](https://www.pinterest.com/pin/719379740525159749/) — orijinal paylaşım: https://pin.it/6eZDJDqpX. Özgün sanatçı doğrulanamadı; Pinterest paylaşan hesabı sanatçı olarak etiketlenmedi.
-- [Acrylic Painting of Nemo](https://www.pinterest.com/pin/670895675758108130/) — orijinal paylaşım: https://pin.it/1USg8YNDc. Sanatsal kompozisyon; özgün sanatçı doğrulanamadı. Pin başlığı korundu.
-- [Kaplumbağa / plastik poşet](https://www.pinterest.com/pin/881861170807378464/) — orijinal paylaşım: https://pin.it/6BBMYZERq. **Sitede kullanılmadı:** Adobe Stock filigranı taşıyor. Kaynak olarak listeleniyor.
-
-Görsel hakları ilgili üreticilerde kalır. Görseller Scribble’ın özgün eserleri veya belgesel kanıt olarak sunulmaz. WebP dosyaları sayfa ağırlığı için optimize edilmiştir.
-
-## Çevre sanatı araştırması
-
-- [Mandy Barker — SOUP](https://www.mandy-barker.com/soup-2): denizden toplanan plastiklerle fotoğraf serisi. Sayfada bağlantı ve kısa tanıtım; sanatçının görselleri kopyalanmadı.
-- [Alejandro Durán — Washed Up](https://alejandroduran.com/photoseries): kıyıya vuran atıklardan yerleştirmeler. [Filmler](https://alejandroduran.com/films) sanatçının kendi sitesinde izlenebilir. Sayfada bağlantı; eser görselleri ve videoları kopyalanmadı.
+Lafour: tam ekran fotoğraf, işaretli ince menü, görsel seçicisi. Lament: büyük numaralı başlıklar ve açılan medya. Jarcos: siyah bilgi satırları, beyaz büyük kelime işareti ve görsel etkileşimi. WebInspoo: nesnelerle yükselen kompozisyon.
 
 ## Veriler
 
-- [OECD — Global Plastics Outlook, 2022](https://www.oecd.org/en/publications/2022/02/global-plastics-outlook_a653d1c9.html): **2019, dünya:** 353 milyon ton plastik atık; kayıplar sonrası %9 geri dönüşüm. Plastik üretim oranı veya güncel yıl ölçümü gibi sunulmaz.
-- [UNEP — Plastic pollution & marine litter](https://www.unep.org/en/what-we-do/ocean-seas-and-coasts/ecosystem-degradation-pollution/plastic-pollution-marine-litter): **yıllık tahmin:** 19–23 milyon ton plastiğin su ekosistemlerine sızması. Göl, nehir ve denizleri kapsar; yalnızca okyanus değildir. OECD 2019 verileriyle toplanmaz.
-- [EPA — What you can do to reduce plastic waste](https://www.epa.gov/plastics/what-you-can-do-reduce-plastic-waste) ve [How do I recycle common recyclables?](https://www.epa.gov/recycle/how-do-i-recycle-common-recyclables): azaltma, yeniden kullanma, ambalajı boşaltma ve yerel kabul kurallarını kontrol etme. ABD kutu renkleri veya ülkeye özgü kabul listeleri Türkiye için genellenmez.
+OECD Global Plastics Outlook (2022): 2019 dünya verileri; 353 milyon ton plastik atık ve kayıplar sonrası %9 geri dönüşüm. UNEP: su ekosistemlerine sızan yıllık 19–23 milyon ton plastik atık tahmini; yalnızca okyanus değil, göl ve nehirler de dahil. İki veri toplanmaz.
 
-## Özgün üretim ve fontlar
-
-- Scribble marka işareti: serinin mevcut ortak logosu.
-- Açılış grafiği: SVG ile oluşturulan kavramsal şişe/kutu kompozisyonu; gerçek veri grafiği değildir.
-- [DM Sans](https://fonts.google.com/specimen/DM+Sans) / [Manrope](https://fonts.google.com/specimen/Manrope): SIL Open Font License. Font dosyaları yereldir; lisans metinleri `dm-sans-OFL.txt`, `manrope-OFL.txt` içindedir.
+Grafikteki 100 şekil toplam plastik atığın %100’ünü; vurgulanan 9 şekil geri dönüştürülen payı temsil eder. Şişe semboliktir; veri yalnızca PET’e ait değildir. Kompozisyon bir zaman serisi değildir. Rehber EPA kaynaklarını ve yerel toplama kurallarının değişebileceğini belirtir. Tüm doğrudan kaynak bağlantıları HTML arşivindedir.
