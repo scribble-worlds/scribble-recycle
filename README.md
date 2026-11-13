@@ -1,42 +1,33 @@
-<a href="https://github.com/scribble-worlds"><img src="https://raw.githubusercontent.com/Mkochandev/Mkochandev/main/assets/scribble-brand.svg" width="100%" alt="Scribble" /></a>
-
 # 002 / Recycle
 
-**Bir sonraki hayatı var.**
+**Gözden çıkarma.**
 
-Scribble’ın geri dönüşüm farkındalığı üzerine kurgulanan ikinci dünyası. Bir kez kullandığımız şeylerin bizden sonraki yolculuğunu; tüketim, su ekosistemleri ve yeniden kullanım üzerinden ele alan, Türkçe ve İngilizce bir dijital deneyim.
-
-Aynı Scribble logosu. Bu kez başka bir döngü.
+Scribble’ın geri dönüşüm farkındalığı üzerine kurgulanan ikinci dünyası. İsim ve logo ortak; bu dünyanın renk, tipografi ve sayfa sistemi bağımsız.
 
 [Deneyimi keşfet ↗](https://scribble-worlds.github.io/scribble-recycle/) · [Kaynaklar ve referanslar](https://scribble-worlds.github.io/scribble-recycle/references.html)
 
 ## Deneyim
 
-- PET şişeler ve metal kutularla yükselen açılış kompozisyonu; düğmeyle birikimden döngüye dönüşüm.
-- OECD ve UNEP kaynaklarıyla, yılı ve kapsamı belirtilen plastik atık verileri.
-- Sanatsal görsellerle su ekosistemleri üzerine görsel bir anlatı.
-- Plastik, cam, kâğıt ve metal için klavyeyle de kullanılabilen malzeme rehberi.
-- Türkçe / İngilizce, mobil düzen, hareketi duraklatma ve azaltılmış hareket tercihi desteği.
+- Lafour referanslı tam ekran fotoğraf, ince işaretli menü ve kullanıcı kontrollü görsel seçimi.
+- Lament referanslı büyük numaralı başlıklar, kaydırmayla genişleyen ve açılıp kapanan medya bölümleri.
+- Gerçek 4000–4800 piksel fotoğraflar: ekran boyutuna göre 960 / 1920 / 3840 piksel sunum ve tam ekran görüntüleyici.
+- Kobalt mavi, beyaz ve siyah; Barlow Condensed, Space Grotesk ve IBM Plex Mono.
+- OECD ve UNEP kaynaklarıyla tarih ve kapsamı belirtilmiş veriler; 100 sembolle %9 geri dönüşüm grafiği.
+- Türkçe / İngilizce, mobil menü, klavye desteği ve azaltılmış hareket tercihi.
+- Jarcos referanslı siyah bilgi satırlarından beyaz büyük kelime işaretine geçen footer.
 
-## Çalıştırma ve yayın
+## Çalıştırma
 
-Derleme veya bağımlılık kurulumu gerektirmez. HTML, CSS, JavaScript ve yerel font dosyalarından oluşur.
+Derleme ve bağımlılık kurulumu gerekmez:
 
 ```sh
 python3 -m http.server 8000
 ```
 
-Tarayıcıda `http://localhost:8000` adresini aç. GitHub Pages, `main` dalındaki kök dizinden yayınlanır. Dosya yolları alt dizin yayınına uygundur.
+`index.html` ana sayfa, `references.html` kaynak arşivi, `recycle.css` görsel sistem, `recycle.js` etkileşimlerdir. `build_site.py` iki HTML dosyasını üretir. GitHub Pages `main` dalının kökünden yayınlanır.
 
-`index.html` ana deneyim, `references.html` kaynak arşivi, `style.css` görsel sistem, `app.js` etkileşimlerdir. `build_site.py` iki HTML sayfasının ortak parçalarını üreten, isteğe bağlı geliştirme yardımcısıdır; günlük kullanımda gerekli değildir. HTML düzenlenecekse dosyaları doğrudan değiştirmek veya bu üreticiyi güncellemek mümkündür.
+Fotoğraflar Unsplash kaynaklarından responsive olarak, fontlar Google Fonts üzerinden sunulur. Önceki sürümün kullanılmayan dosyaları mevcut olabilir; güncel HTML yeni `recycle.css` ve `recycle.js` dosyalarını kullanır.
 
-## Kaynak yaklaşımı
+Fotoğrafçılar: Alex Varela (4000 × 2250), Marcus Lange (4800 × 2702), Naja Bertolt Jensen (4032 × 3024). Fotoğraflar Unsplash lisansı kapsamında kullanılır; ortaklık veya destek iddia edilmez. Özgün bağlantılar, verilerin kapsamları ve tasarım referansları kaynak sayfasındadır.
 
-Açılış kompozisyonu kavramsaldır; nesne sayıları istatistik temsil etmez. İstatistikler kendi yılları ve ölçüm kapsamlarıyla sunulur. Sanatsal referanslar belgesel fotoğraf olarak gösterilmez. Yerel geri dönüşüm talimatları değişebilir; malzeme rehberi belediyenin veya yetkili toplayıcının güncel talimatının yerini tutmaz.
-
-Görseller ilgili hak sahiplerine aittir; kaynak gösterimi lisans devri değildir. Yerel DM Sans ve Manrope fontları SIL Open Font License kapsamında kullanılır; lisans metinleri depodadır.
-
-[Proje notları](BRIEF.md) · [Referans arşivi](REFERENCES.md) · [Scribble dünyaları ↗](https://github.com/scribble-worlds)
-
----
 Bir **Scribble** tasarım ve geliştirme projesi / **muham²ed**
